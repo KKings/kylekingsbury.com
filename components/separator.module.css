@@ -1,0 +1,19 @@
+
+.separator {
+    /* Empty so tailwind picks it up */
+}
+
+.separator:after {    
+    content: "";
+    height: 1px;
+    width: 50px;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    margin-left: -25px;
+    background: rgba(51,51,51,0.2);
+}
+
+.separator:last-child:after {
+    background: none;
+}

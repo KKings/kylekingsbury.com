@@ -1,0 +1,95 @@
+.markdown > p {
+  @apply mb-5;
+  @apply text-lg;
+}
+
+.markdown h2 {
+  @apply mb-5;
+  @apply mt-7;
+  font-weight: bold;
+  font-size: 3em
+}
+
+.markdown h3 {
+  @apply mb-5;
+  @apply mt-7;
+  font-weight: bold;
+  font-size: 2em
+}
+
+.markdown h5 {
+  @apply mb-3;
+  @apply mt-4;
+}
+
+.markdown ul, 
+.markdown ol {
+  @apply list-outside;
+  @apply break-normal;
+  @apply ml-10;
+}
+
+.markdown ol {
+  @apply list-decimal;
+}
+
+.markdown ul {
+  @apply list-disc;
+}
+
+.markdown li  {
+  @apply pl-2;
+  @apply mb-2;
+}
+
+.markdown li li  {
+  @apply pt-2;
+}
+
+.markdown > ul > li:last-child,
+.markdown > ol > li:last-child {
+  @apply mb-5;
+}
+
+.markdown ul > li > p,
+.markdown ol > li > p {
+  display: inline;
+}
+
+.markdown > .remark-highlight {
+  font-size: 0.9em;
+}
+
+.markdown blockquote {
+  border: 1px double rgba(0,0,0,.1);
+  @apply leading-relaxed;
+  @apply relative;
+  @apply text-center;
+  @apply p-16;
+  @apply block;
+  @apply my-6;
+  @apply text-2xl;
+}
+
+.markdown blockquote:before {
+  @apply bg-king-red;
+  @apply absolute;
+  @apply block;
+  @apply w-10;
+  @apply h-10;
+  @apply text-center;
+  @apply text-white;
+  @apply drop-shadow-md;
+  @apply rounded-full;
+  content: "\201D";
+  top: -1.2rem;
+  line-height: 63px;
+  left: 50%;
+  margin-left: -20px;
+  font-size: 3.6rem;
+}
+
+.markdown img {
+  @apply object-fill;
+  @apply mx-auto;
+}
