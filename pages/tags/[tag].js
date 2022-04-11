@@ -30,7 +30,7 @@ export default function Tag({ posts, preview, tag }) {
       <Container className="bg-king-red">
         <Header />
       </Container>
-      <Container className="container mx-auto md:px-5 -mt-reverse-cover">
+      <Container className="container mx-auto md:px-5 md:-mt-reverse-cover">
         <article className="p-6 pb-32 md:p-32 md:mb-16 lg:pt-48 bg-white drop-shadow-xl">
           <PostListing 
             posts={posts}

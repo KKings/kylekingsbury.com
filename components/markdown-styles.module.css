@@ -43,6 +43,7 @@
 .markdown li  {
   @apply pl-2;
   @apply mb-2;
+  word-break: break-word;
 }
 
 .markdown li li  {

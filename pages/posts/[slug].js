@@ -26,7 +26,7 @@ export default function Post({ post, preview }) {
       <Container className='bg-king-red'>
         <Header />
       </Container>
-      <Container className='container mx-auto md:px-5 -mt-reverse-cover'>
+      <Container className='container mx-auto md:px-5 md:-mt-reverse-cover'>
         {router.isFallback ? (
             <PostTitle>Loading...</PostTitle>
           ) : (

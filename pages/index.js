@@ -43,8 +43,8 @@ export default function Index({ allPosts }) {
             )}
           </Header>
         </Container>
-        <Container className="container mx-auto md:px-5 -mt-reverse-cover">
-          <article className="mb-4 p-10 md:mb-16 bg-white md:p-article drop-shadow-xl">
+        <Container className="container mx-auto md:px-5 md:-mt-reverse-cover">
+          <article className="mb-4 p-6 md:mb-16 bg-white md:p-article drop-shadow-xl">
             <PostListing 
               posts={morePosts}
               title="Latest Posts"

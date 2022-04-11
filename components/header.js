@@ -19,7 +19,7 @@ const menu = (
 )
 
 export default function Header({ onIndex, children }) {
-  const paddingStyle = onIndex ? 'pb-24' : 'pb-cover';
+  const paddingStyle = onIndex ? 'pb-24' : 'md:pb-cover';
   
   const [toggle, setToggle] = useState(false);
 
@@ -30,8 +30,8 @@ export default function Header({ onIndex, children }) {
   }
 
   return (
-    <div className='container mx-auto px-5'>
-      <div className={`flex pt-10 ${paddingStyle}`}>
+    <div className='container mx-auto px-6 md:px-5'>
+      <div className={`flex py-5 ${paddingStyle}`}>
         <div className="flex items-center">
           <h2 className="text-white text-2xl md:text-4xl font-bold tracking-tight md:tracking-tighter leading-tight">
             <Link href="/">

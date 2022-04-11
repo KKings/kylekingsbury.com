@@ -28,10 +28,10 @@ export default function About({ page }) {
         <Container className="bg-king-red">
           <Header />
         </Container>
-        <Container className="container mx-auto md:px-5 -mt-reverse-cover">
-          <article className="mb-4 p-10 md:mb-16 bg-white md:p-32 lg:p-article drop-shadow-xl">
+        <Container className="container mx-auto md:px-5 md:-mt-reverse-cover">
+          <article className="mb-4 p-6 pb-32 md:mb-32 bg-white md:p-32 lg:p-article drop-shadow-xl">
             <div className='page-title relative'>
-              <h1 className='text-6xl'>{page.title}</h1>
+              <h1 className='text-6xl mb-6 md:mb-0'>{page.title}</h1>
               <LetterHighlight text={page.title} />
             </div>
             <div className='clear-both'>
