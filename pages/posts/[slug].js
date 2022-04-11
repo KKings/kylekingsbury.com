@@ -31,7 +31,7 @@ export default function Post({ post, preview }) {
             <PostTitle>Loading...</PostTitle>
           ) : (
             <>
-              <article className='p-12 pb-32 md:p-32 md:mb-16 lg:pt-48 bg-white drop-shadow-xl'>
+              <article className='p-6 pb-32 md:p-32 md:mb-16 lg:pt-48 bg-white drop-shadow-xl'>
                 <Head>
                   <title>
                     {post.title} | {CMS_NAME}

@@ -28,7 +28,7 @@ export default function About({ page }) {
         <Container className="bg-king-red">
           <Header />
         </Container>
-        <Container className="container mx-auto px-5 -mt-reverse-cover">
+        <Container className="container mx-auto md:px-5 -mt-reverse-cover">
           <article className="mb-4 p-10 md:mb-16 bg-white md:p-32 lg:p-article drop-shadow-xl">
             <div className='page-title relative'>
               <h1 className='text-6xl'>{page.title}</h1>

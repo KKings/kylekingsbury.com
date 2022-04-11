@@ -30,7 +30,7 @@ export default function Category({ posts, preview, category }) {
       <Container className="bg-king-red">
         <Header />
       </Container>
-      <Container className="container mx-auto px-5 -mt-reverse-cover">
+      <Container className="container mx-auto md:px-5 -mt-reverse-cover">
         <article className="mb-4 p-10 md:mb-16 bg-white md:p-article drop-shadow-xl">
           <PostListing 
             posts={posts}

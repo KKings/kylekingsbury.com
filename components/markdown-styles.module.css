@@ -1,20 +1,23 @@
 .markdown > p {
   @apply mb-5;
-  @apply text-lg;
+  @apply text-base;
+  @apply md:text-lg;
 }
 
 .markdown h2 {
   @apply mb-5;
   @apply mt-7;
   font-weight: bold;
-  font-size: 3em
+  @apply md:text-2xl;
+  @apply lg:text-4xl;
 }
 
 .markdown h3 {
   @apply mb-5;
   @apply mt-7;
   font-weight: bold;
-  font-size: 2em
+  @apply md:text-lg;
+  @apply lg:text-2xl;
 }
 
 .markdown h5 {
