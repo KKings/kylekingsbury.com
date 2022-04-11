@@ -13,12 +13,12 @@ export default function PostCategories({ categories }) {
             <span className='pr-1'>In</span>
             { 
                 categories.map((category, index) => (
-                    <>
+                    <span key={`${category}-${index}`}>
                         <Link href={`/category/${category.toLowerCase()}`}>
                             <a>{category}</a>
                         </Link>
                         {index + 1 !== total && <span className="pr-1">,</span>}
-                    </>
+                    </span>
                 ))
             }
         </>

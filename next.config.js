@@ -1,10 +1,12 @@
+const isProd = process.env.NODE_ENV == "production";
+
 const contentSecurityPolicy = `
     default-src 'self';
-    script-src 'self';
+    script-src 'self' ${isProd ? '' : "'unsafe-eval'" };
     child-src kylekingsbury.com;
-    style-src 'self' kylekingsbury.com;
+    style-src 'self' localhost 'unsafe-inline' data: kylekingsbury.com;
     font-src 'self'; 
-    img-src 'self' media.giphy.com;
+    img-src 'self' data: media.giphy.com;
 `;
 
 const securityHeaders = [
@@ -22,7 +24,7 @@ const securityHeaders = [
     },
     {
         key: 'Permissions-Policy',
-        value: 'camera=(), microphone=(), geolocation=(), interest-cohort=()'
+        value: 'camera=(), microphone=(), geolocation=()'
     },
     {
         key: 'X-Content-Type-Options',
@@ -39,6 +41,10 @@ const securityHeaders = [
 ];
 
 const nextConfig = {
+    images: {
+        loader: 'imgix',
+        path: ''
+    },
     async headers() {
         return [
             {

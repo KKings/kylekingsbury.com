@@ -1,5 +1,5 @@
 import Head from 'next/head';
-import Image from 'next/image';
+import Image from '../components/image';
 import { useRouter } from 'next/router';
 import Container from '../components/container';
 import Layout from '../components/layout'
@@ -35,7 +35,7 @@ export default function About({ page }) {
               <LetterHighlight text={page.title} />
             </div>
             <div className='clear-both'>
-              <div class="float-left pr-4">
+              <div className="float-left pr-4">
                 <Image 
                     src='/assets/images/kyle-kingsbury.jpg' 
                     alt="Kyle Kingsbury" 

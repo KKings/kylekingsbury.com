@@ -5,13 +5,13 @@ const menu = (
   <>
     <Link href="/about">
       <a
-        class="pr-1 md:px-2 text-white font-semibold uppercase"
+        className="pr-1 md:px-2 text-white font-semibold uppercase"
         >About
       </a>
     </Link>
     {/* <Link href="/contact">
       <a
-        class="md:px-2 text-white md:font-semibold transition duration-300 uppercase"
+        className="md:px-2 text-white md:font-semibold transition duration-300 uppercase"
         >Contact
       </a>
     </Link> */}
@@ -44,18 +44,18 @@ export default function Header({ onIndex, children }) {
             </span>
           </h2>
         </div>
-        <div class="flex items-center space-x-2 ml-auto">
+        <div className="flex items-center space-x-2 ml-auto">
           { menu }
         </div>
-        <div class="hidden flex items-center ml-auto">
-          <button class="outline-none mobile-menu-button" onClick={handler}>
+        <div className="hidden flex items-center ml-auto">
+          <button className="outline-none mobile-menu-button" onClick={handler}>
             <svg
-              class="w-6 h-6 text-white"
+              className="w-6 h-6 text-white"
               x-show="!showMenu"
               fill="none"
-              stroke-linecap="round"
-              stroke-linejoin="round"
-              stroke-width="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth="2"
               viewBox="0 0 24 24"
               stroke="currentColor"
             >
