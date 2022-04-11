@@ -5,4 +5,4 @@
   Referrer-Policy: origin-when-cross-origin
   Permissions-Policy: camera=(), microphone=(), geolocation=()
   Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
-  Content-Security-Policy: Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-eval'; child-src kylekingsbury.com; style-src 'self' localhost 'unsafe-inline' data: kylekingsbury.com; font-src 'self'; img-src 'self' data: *.pages.dev *.workers.dev media.giphy.com;
+  Content-Security-Policy: default-src 'self' https://www.google-analytics.com; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.google-analytics.com; child-src kylekingsbury.com; style-src 'self' localhost 'unsafe-inline' data: kylekingsbury.com; font-src 'self'; img-src 'self' data: *.pages.dev *.workers.dev media.giphy.com https://www.google-analytics.com;

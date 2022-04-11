@@ -2,310 +2,310 @@
     <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
         <url>
             <loc>https://kylekingsbury-com.pages.dev</loc>
-            <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+            <lastmod>2022-04-11T19:52:02.338Z</lastmod>
             <changefreq>weekly</changefreq>
             <priority>1.0</priority>
         </url>
         <url>
             <loc>https://kylekingsbury-com.pages.dev/about</loc>
-            <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+            <lastmod>2022-04-11T19:52:02.338Z</lastmod>
             <changefreq>monthly</changefreq>
             <priority>0.5</priority>
         </url>
         
   <url>
     <loc>https://kylekingsbury-com.pages.dev/posts/top-5-reasons-your-sitecore-search-is-slow-and-how-to-resolve</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/posts/updating-sitecore-xp-roles-to-rotate-logs-based-on-file-size</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/posts/filtering-sitecore-tree-type-fields-by-the-inheritance-chain</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/posts/sitecore-horizon-overview</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/posts/pattern-for-implementing-a-custom-htmlcacheclearer</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/posts/a-faster-isderived-extension-method</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/posts/a-tale-of-improving-the-sitecore-8-2-experience-editor-performance</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/posts/sitecore-mvp-2019-technology</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/posts/creating-a-custom-command-with-sitecore-powershell-extensions</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/posts/failed-to-synchronize-segments-message-value-cannot-be-null</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/posts/reaching-the-max-pages-viewed-threshold-for-an-xdb-session</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/posts/mapping-integers-values-to-boolean-values-within-solr-with-the-contentsearch-api</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/posts/targets-dropdown-not-populating-within-the-link-dialog</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/posts/configuring-sitecores-solrprovider-to-use-solrpostconnection</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/posts/what-to-know-before-overriding-the-sitecore-item-resolver</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/posts/sitecore-page-mode-switcher</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/posts/handling-unhandled-exceptions-within-sitecore-renderings</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/posts/results-from-upgrading-to-project-dilithium-and-unicorn-4</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/posts/unit-testing-devices-and-layouts-with-sitecore-fakedb</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/posts/deliver-faster-with-the-fluent-contentsearch-library</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/posts/sitecore-cache-extensions</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
         
   <url>
     <loc>https://kylekingsbury-com.pages.dev/category/sitecore</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/category/serilog</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/category/helix</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
         
   <url>
     <loc>https://kylekingsbury-com.pages.dev/tags/performance</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/tags/horizon</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/tags/patterns</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/tags/publishing</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/tags/extensions</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/tags/experience-editor</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/tags/mvp</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/tags/contentsearch</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/tags/powershell</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/tags/hotfix</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/tags/debugging</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/tags/xdb</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/tags/solr</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/tags/sitecore</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/tags/configuration</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/tags/mvc</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/tags/exceptions</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/tags/unit-test</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/tags/user-experience</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/tags/continuous-integration</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/tags/unicorn</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/tags/sitecore-fakedb</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/tags/search</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/tags/caching</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://kylekingsbury-com.pages.dev/tags/helix</loc>
-    <lastmod>2022-04-11T17:31:40.419Z</lastmod>
+    <lastmod>2022-04-11T19:52:02.338Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

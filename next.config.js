@@ -1,12 +1,12 @@
 const isProd = process.env.NODE_ENV == "production";
 
 const contentSecurityPolicy = `
-    default-src 'self';
-    script-src 'self' ${isProd ? '' : "'unsafe-eval'" };
+    default-src 'self' https://www.google-analytics.com;
+    script-src 'self' 'unsafe-inline' ${isProd ? '' : "'unsafe-eval'" }  https://www.googletagmanager.com https://www.google-analytics.com;
     child-src kylekingsbury.com;
     style-src 'self' localhost 'unsafe-inline' data: kylekingsbury.com;
     font-src 'self'; 
-    img-src 'self' data: media.giphy.com;
+    img-src 'self' data: *.pages.dev *.workers.dev media.giphy.com https://www.google-analytics.com;
 `;
 
 const securityHeaders = [
